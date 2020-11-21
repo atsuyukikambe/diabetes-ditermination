@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+.a{
+    color: red;
+    font-size: 50px;
+    text-align: center;
+    margin: 40px;
+}
+
+.b{
+    color: #556B2F;
+    font-size: 50px;
+    text-align: center;
+    margin: 40px;
+}
+
+.c{
+    color: #1E90FF;
+    font-size: 50px;
+    text-align: center;
+    margin: 40px;
+}
+
+.d{
+    color: #FFD700;
+    font-size: 50px;
+    text-align: center;
+    margin: 40px;
+}
+
