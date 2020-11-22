@@ -2,7 +2,7 @@
     <link href="{{ asset('css/navbar.css') }}" rel="stylesheet">
     <nav class="navbar navbar-expand-sm navbar-dark">
         {{-- トップページへのリンク --}}
-        <a class="navbar-center" href="/">糖尿病診断</a>
+        <a class="text-white">{!! link_to_route('welcome', '糖尿病診断', [], ['class' => 'white']) !!}</a>
 
         <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#nav-bar">
             <span class="navbar-toggler-icon"></span>

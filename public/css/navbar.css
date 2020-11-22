@@ -3,3 +3,11 @@
 header{
     background-color:#9933CC;
 }
+
+.white{
+    width: auto;
+    margin: auto;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
