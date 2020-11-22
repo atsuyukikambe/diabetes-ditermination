@@ -5,7 +5,7 @@ h1{
 }
 
 h3{
-    margin: 100px 150px;
+    margin: 100px auto 150px auto;
     font-size: 20px;
 }
 
